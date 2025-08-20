@@ -3,3 +3,7 @@ body {
     background-color: lightgreen;
     color: white;
 }
+
+img {
+    height: 100px;
+}
